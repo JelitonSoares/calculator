@@ -4,5 +4,5 @@
 esse projeto conta com uma simples calculadora usando um metodo de perguntas e respostas, onde o usuário escolhe a operação que deseja realizar
 e digita os valores que deseja calcular.<p>
 <h2> Operações contidas no projeto:<h2>
- <p>Adição: + \nSubtração: - \nDivisão: / \nMultiplicação:<p>
+ <p>Adição: + <br>Subtração: - <br>Divisão: / <br>Multiplicação:<p>
     
