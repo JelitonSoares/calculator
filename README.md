@@ -1,0 +1,8 @@
+<h1 align="center"> Calculadora em JavaScript </h1>
+<h2> Calculadora com as operações matemáticas basicas feita em JavaScript e utilizando o Node.js<h2>
+<p> O projeto foi inicado em um dos desafios do meu curso de JavaScript da Alura (Utilizando o JavaScript no back-end) do qual eu estou cursando
+esse projeto conta com uma simples calculadora usando um metodo de perguntas e respostas, onde o usuário escolhe a operação que deseja realizar
+e digita os valores que deseja calcular.<p>
+<h2> Operações contidas no projeto:<h2>
+ <p>Adição: + \nSubtração: - \nDivisão: / \nMultiplicação:<p>
+    
